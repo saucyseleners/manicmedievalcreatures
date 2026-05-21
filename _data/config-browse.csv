@@ -3,5 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-color,Color,true,,Color
-creator,Creator,true,,Creator
+color,,,true,,Color
+creator,,,true,,Creator
