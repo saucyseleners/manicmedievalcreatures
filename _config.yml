@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Medieval Creature Designs Lost to Time
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Absurd ideas that have been since forgotten.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This is a collection of unusual and unfamiliar creature different from the typical designs. What ideas have been forgotten over time? This collection also includes early designs of mythical creatures we know today--the appearances have changed quite a bit."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Lemoon0029 and saucyseleners
 
 ##########
 # COLLECTION SETTINGS
